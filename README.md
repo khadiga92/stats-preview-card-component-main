@@ -46,4 +46,4 @@ I still need to learn a lot about CSS and how to position elements.
 
 ## Author
 
-- Khadiga Elbasousi
+- Khadiga Elbasousi# stats-preview-card-component-main
